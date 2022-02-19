@@ -1,0 +1,12 @@
+name: orie5751
+
+dependencies:
+    - python==3.8.3
+    - pip
+    - pip:
+        - pandas
+        - numpy
+        - matplotlib
+        - seaborn
+        - networkx
+        - scipy

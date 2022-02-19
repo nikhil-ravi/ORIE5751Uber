@@ -10,3 +10,8 @@ dependencies:
         - seaborn
         - networkx
         - scipy
+        - shapely
+        - geopandas
+        - osmnx
+        - tzwhere
+        - ipykernel
